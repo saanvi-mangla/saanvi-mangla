@@ -103,7 +103,7 @@ I believe in the power of technology to transform ideas into reality, whether it
 ### 🏆 Featured Repositories
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AkhilB09&repo=Punjabi-News-Sentiment-Analysis&theme=tokyonight)](https://https://github.com/saanvi-mangla/news-sentiment-analysis)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=saanvi-mangla&repo=news-sentiment-analysis&theme=tokyonight)](https://github.com/saanvi-mangla/news-sentiment-analysis)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=saanvi-mangla&repo=AI-Based-Voice-Biometrics-for-Authentication&theme=tokyonight)](https://github.com/saanvi-mangla/AI-Based-Voice-Biometrics-for-Authentication)
 
 </div>
